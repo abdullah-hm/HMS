@@ -1,0 +1,294 @@
+@media screen and (max-width: 1600px) {
+  .admin-dashboard .content-wrapper .content .bg-success .inner h3 {
+    font-size: 35px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .admin-dashboard .content-wrapper .content .bg-success .inner h3 {
+    font-size: 27px;
+    line-height: unset;
+  }
+}
+.admin-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background-color: #e91e63 !important;
+}
+.admin-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.admin-dashboard .main-sidebar {
+  background-color: #2a303d;
+}
+.admin-dashboard .main-sidebar .brand-link {
+  color: white;
+  background-color: #e91e63 !important;
+  font-weight: bold;
+}
+.admin-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.admin-dashboard .main-sidebar .sidebar {
+  color: white;
+}
+.admin-dashboard .main-sidebar .sidebar .user-panel .info .d-block {
+  color: white;
+}
+.admin-dashboard .main-sidebar .nav-item .nav-link {
+  color: white;
+}
+.admin-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background: -webkit-linear-gradient(45deg, #d500f9, #ffa000);
+  background: linear-gradient(45deg, #d500f9, #ffa000);
+  box-shadow: 0 6px 20px 0 rgba(255, 160, 0, 0.5);
+}
+.admin-dashboard .main-sidebar .nav-item .nav-treeview .active {
+  background: white;
+  color: black;
+  box-shadow: none;
+}
+.reception-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background: -webkit-linear-gradient(45deg, #303f9f, #7b1fa2);
+  background: linear-gradient(45deg, #303f9f, #7b1fa2);
+  box-shadow: 3px 3px 20px 0 rgba(123, 31, 162, 0.5);
+}
+.reception-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.reception-dashboard .main-sidebar {
+  background-color: white;
+}
+.reception-dashboard .main-sidebar .brand-link {
+  color: white;
+  background: -webkit-linear-gradient(45deg, #303f9f, #7b1fa2);
+  background: linear-gradient(45deg, #303f9f, #7b1fa2);
+  box-shadow: 3px 3px 20px 0 rgba(123, 31, 162, 0.5);
+  font-weight: bold;
+}
+.reception-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.reception-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.reception-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.reception-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background: -webkit-linear-gradient(45deg, #303f9f, #7b1fa2);
+  background: linear-gradient(45deg, #303f9f, #7b1fa2);
+  box-shadow: 3px 3px 20px 0 rgba(123, 31, 162, 0.5);
+}
+.reservation-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background: -webkit-linear-gradient(45deg, #43a047, #1de9b6) !important;
+  background: linear-gradient(45deg, #43a047, #1de9b6) !important;
+}
+.reservation-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.reservation-dashboard .main-sidebar {
+  background-color: white;
+}
+.reservation-dashboard .main-sidebar .brand-link {
+  color: white;
+  background: -webkit-linear-gradient(45deg, #43a047, #1de9b6) !important;
+  background: linear-gradient(45deg, #43a047, #1de9b6) !important;
+  font-weight: bold;
+}
+.reservation-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.reservation-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.reservation-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.reservation-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background: -webkit-linear-gradient(45deg, #43a047, #1de9b6) !important;
+  background: linear-gradient(45deg, #43a047, #1de9b6) !important;
+}
+.hr-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background-color: #ff5722 !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.hr-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.hr-dashboard .main-sidebar {
+  background-color: white;
+}
+.hr-dashboard .main-sidebar .brand-link {
+  color: white;
+  background-color: #ff5722 !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+  font-weight: bold;
+}
+.hr-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.hr-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.hr-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.hr-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background-color: #ff5722 !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.roomservice-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background-color: #f30636 !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.roomservice-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.roomservice-dashboard .main-sidebar {
+  background-color: white;
+}
+.roomservice-dashboard .main-sidebar .brand-link {
+  color: white;
+  background-color: #f30636 !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+  font-weight: bold;
+}
+.roomservice-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.roomservice-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.roomservice-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.roomservice-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background-color: #f30636 !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.account-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background: linear-gradient(45deg, #40440d, #ffe500) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.account-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.account-dashboard .main-sidebar {
+  background-color: white;
+}
+.account-dashboard .main-sidebar .brand-link {
+  color: white;
+  background: linear-gradient(45deg, #40440d, #ffe500) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+  font-weight: bold;
+}
+.account-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.account-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.account-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.account-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background: linear-gradient(45deg, #40440d, #ffe500) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.bar-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background: linear-gradient(45deg, #f90b5c, #8bc34a) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.bar-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.bar-dashboard .main-sidebar {
+  background-color: white;
+}
+.bar-dashboard .main-sidebar .brand-link {
+  color: white;
+  background: linear-gradient(45deg, #f90b5c, #8bc34a) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+  font-weight: bold;
+}
+.bar-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.bar-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.bar-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.bar-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background: linear-gradient(45deg, #f90b5c, #8bc34a) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.it-dashboard .main-header {
+  margin: 0;
+  color: #fff;
+  background: linear-gradient(45deg, #000000, #978c88) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+.it-dashboard .main-header .navbar-nav .nav-link {
+  color: #fff;
+}
+.it-dashboard .main-sidebar {
+  background-color: white;
+}
+.it-dashboard .main-sidebar .brand-link {
+  color: white;
+  background: linear-gradient(45deg, #000000, #978c88) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+  font-weight: bold;
+}
+.it-dashboard .main-sidebar .brand-link .brand-text {
+  font-weight: bold;
+}
+.it-dashboard .main-sidebar .sidebar {
+  color: black;
+}
+.it-dashboard .main-sidebar .nav-item .nav-link {
+  color: black;
+}
+.it-dashboard .main-sidebar .nav-item .active {
+  color: white;
+  margin-right: 1.15rem;
+  border-radius: 0 25px 25px 0;
+  background: linear-gradient(45deg, #000000, #978c88) !important;
+  box-shadow: 3px 3px 20px 0 rgb(255 110 1.28%);
+}
+/*# sourceMappingURL=background.css.map */
